@@ -1,8 +1,8 @@
-HealthCare Management System
+# HealthCare Management System
 
 The project is about helping patients and doctors interact through an online application system. This will give help to place an immediate medical request which doctor can respond back immediately.
 
-Functionalities Performed:
+# Functionalities Performed:
 
 Doctor:
 1.	Doctors will have a task check page where they can check work request as per their schedule.
@@ -14,11 +14,12 @@ Patient:
 1.	Patient can book an appointment from the available slots which are entered by the doctor
 2.	Patient can request for an E- Prescription by entering the mandatory questions mentioned in the form.
 3.	Patients can check the status the of their E-Prescription, If prescription has been updated then it will be available in the pdf format
-Technologies Used:
+
+# Technologies Used:
 1.	Spring Tool Suite
 2.	Spring MVC
 3.	Hibernate
 4.	iText Pdf
-5.	SMTP Email
+5.	Email API
 6.	Salt Encryption
 7.	MySql Workebench 8.0 
